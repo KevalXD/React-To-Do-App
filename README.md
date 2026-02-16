@@ -67,4 +67,4 @@ The application is deployed on Vercel and automatically redeploys on every push 
 This project was built to strengthen foundational React concepts by implementing core functionality from scratch and understanding how state-driven rendering works in modern frontend applications.
 
 # Preview
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](src/assets/screenshot.png)
